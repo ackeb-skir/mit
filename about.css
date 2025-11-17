@@ -1,0 +1,73 @@
+body{
+     background-image: conic-gradient(rgb(105, 58, 1),red,rgb(126, 126, 4),rgb(73, 4, 73),rgb(2, 2, 75));
+     background-repeat:repeat-y;
+}
+h3{
+    color: chartreuse;
+    text-align: center;
+    font-size: large;
+}
+
+.src{
+    width:700px;
+    height:30px;
+    border-radius: 10px;
+    margin-left: 20%;
+    box-shadow: 0px 0px 25px red;
+    border-color: yellow;
+}
+
+.ser{
+    height:35px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 25px red;
+    border-color: yellow;
+}
+
+.lin a{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+    background-color: darkgreen;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px yellow;
+    border-color: yellow;
+    transition: .4s ease;
+}
+
+.lin a:hover{
+background-color: white;
+color:red;
+}
+
+h3{
+    text-align: center;
+    color: chartreuse;
+    font-size: 40px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px red;
+}
+
+
+.pi{
+    text-align: left;
+    color: white;
+    border-radius: 20px;
+    box-shadow: 0px 0px 30px red;
+    padding: 20px;
+}
+
+img{
+    width:600px;
+    height:600px;
+    margin:30px;
+    border-radius: 30px;
+    box-shadow: 0px 0px 20px yellow;
+}
+marquee{
+    text-align: center;
+    font-size: 30px;
+box-shadow: 0px 0px 20px yellow;
+border-radius: 20px;
+}
